@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <Sanshu>
-    <phhgsi_arm64_ab>
+    <lavender>
       <Filename>9.3.8----诈尸式更新</Filename>
       <RomUrl
         id="rom"
@@ -19,6 +19,6 @@
         id="donation"
         title="Donation"
         description="Donate To The Developer">https://github.com/sanshu-rom/MiuiOTA/blob/miui/donation/README.md</PaypalUrl>
-    </phhgsi_arm64_ab>
+    </lavender>
   </Sanshu>
 </SlimOTA>
