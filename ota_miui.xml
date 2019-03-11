@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <Sanshu>
     <lavender>
-      <Filename>9.3.8----诈尸式更新</Filename>
+      <Filename>9.3.7----诈尸式更新</Filename>
       <RomUrl
         id="rom"
         title="Rom"
