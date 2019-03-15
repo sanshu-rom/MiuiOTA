@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <Sanshu>
-    <lavender>
+    <B2N>
       <Filename>9.3.15--修复账号登录，mata请不要更新</Filename>
       <RomUrl
         id="rom"
@@ -19,6 +19,6 @@
         id="donation"
         title="Donation"
         description="Donate To The Developer">https://github.com/sanshu-rom/MiuiOTA/blob/miui/donation/README.md</PaypalUrl>
-    </lavender>
+    </B2N>
   </Sanshu>
 </SlimOTA>
