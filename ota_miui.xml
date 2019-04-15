@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <Sanshu>
     <B2N>
-      <Filename>9.4.3--2019-04-05清明节版</Filename>
+      <Filename>9.4.12--2019-04-15同步版</Filename>
       <RomUrl
         id="rom"
         title="Rom"
