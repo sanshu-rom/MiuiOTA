@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <Sanshu>
     <B2N>
-      <Filename>9.5.17-2019-05-17同步更新</Filename>
+      <Filename>9.6.05-2019-06-05修复更新，具体内容请看日志</Filename>
       <RomUrl
         id="rom"
         title="Rom"
@@ -21,7 +21,7 @@
         description="Donate To The Developer">https://github.com/sanshu-rom/MiuiOTA/blob/miui/donation/README.md</PaypalUrl>
     </B2N>
     <mata>
-      <Filename>9.5.17-2019-05-17同步更新</Filename>
+      <Filename>9.6.05-2019-06-05修复更新，具体内容请看日志</Filename>
       <RomUrl
         id="rom"
         title="Rom"
@@ -40,7 +40,7 @@
         description="Donate To The Developer">https://github.com/sanshu-rom/MiuiOTA/blob/miui/donation/README.md</PaypalUrl>
     </mata>
     <lavender>
-      <Filename>9.5.17-2019-05-17同步更新</Filename>
+      <Filename>9.6.05-2019-06-05修复更新，具体内容请看日志</Filename>
       <RomUrl
         id="rom"
         title="Rom"
